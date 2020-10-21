@@ -41,7 +41,7 @@
          
         
         
-      <button type="submit" class="btn btn-primary btn-block">Calcular</button>
+    
       <a href="./index.php"class="btn btn-danger btn-block">Regresar</a>
       <footer class="blockquote-footer">
             Elaborado por el <cite title="Source Title">Eduardo Lossada</cite>
